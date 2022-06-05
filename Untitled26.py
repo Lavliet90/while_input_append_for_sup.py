@@ -16,4 +16,3 @@ while z!=0:
 for pug in h:
     sum1+=pug**2
 print(sum1)
-
